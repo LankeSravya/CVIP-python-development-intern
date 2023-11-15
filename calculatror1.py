@@ -1,17 +1,15 @@
 import tkinter as tk
 import math
-LARGE_FONT_STYLE=("Arial",40,"bold")
-SMALL_FONT_STYLE=("Arial",60)
-DIGITS_FONT_STYLE=("Arial",24,"bold")
-DEFAULT_FONT_STYLE=("Arial",20)
+LARGE_FONT_STYLE=("Italian",50,"bold")
+SMALL_FONT_STYLE=("Italian",70)
+DIGITS_FONT_STYLE=("Italian",34,"bold")
+DEFAULT_FONT_STYLE=("Italian",30)
 
-
-
-OFF_WHITE = "#F8FAFF"
+OFF_WHITE = "#F8FBFF"
 WHITE = "#FFFFFF"
-LIGHT_BLUE = "#CCEDFF"
-LIGHT_GRAY = "#F5F5F5"
-LABEL_COLOR = "#25265E"
+LIGHT_BLUE = "#C4EDFF"
+LIGHT_GRAY = "#F56595"
+LABEL_COLOR = "#252656"
 
 class Calculator:
     def __init__(self):
