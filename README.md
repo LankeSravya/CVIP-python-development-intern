@@ -1,1 +1,1 @@
-# CVIP-python-develoPment-intern
+# CVIP-python-development-intern
